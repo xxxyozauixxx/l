@@ -291,7 +291,7 @@
     },
     {
       "key": "88js",
-      "name": "⚽ 看球┃在线",
+      "name": "悠哉看球1",
       "type": 3,
       "api": "csp_Kanqiu",
       "style": {
@@ -303,7 +303,7 @@
     },
 {
       "key": "看球",
-      "name": "看球",
+      "name": "悠哉看球2",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
@@ -315,7 +315,7 @@
     },
     {
       "key": "88js",
-      "name": "悠哉看球",
+      "name": "悠哉看球3",
       "type": 3,
       "api": "./lib/悠哉.js",
       "ext": "./lib/悠哉看球.js",
