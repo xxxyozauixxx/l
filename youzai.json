@@ -314,6 +314,19 @@
       }
     },
     {
+      "key": "88js",
+      "name": "悠哉看球",
+      "type": 3,
+      "api": "./lib/悠哉.js",
+      "ext": "./lib/悠哉看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "索尼",
       "name": "索尼 ",
       "type": 1,
