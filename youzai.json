@@ -29,6 +29,15 @@
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
       "changeable": 0
     },
+    {"key":"Yingtantv",
+      "name":"影探|直连",
+      "type":3,
+      "api":"csp_Yingtantv",
+      "quickSearch":1,
+      "changeable":1, 
+      "filterable":1,
+      "timeout":30,
+      "ext":"$$$./lib/yt.json$$$1"},
     {
       "key": "玩偶哥哥",
       "name": "悠哉玩偶",
