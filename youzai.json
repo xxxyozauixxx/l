@@ -24,7 +24,7 @@
       "key": "Yingtantv",
       "name": "💯影探┃TV┃App",
       "type": 3,
-      "api": "csp_Yingtantv2",
+      "api": "csp_Yingtantv",
       "searchable": 1,
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
       "changeable": 0
