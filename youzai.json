@@ -21,6 +21,31 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+        {
+      "key": "csp_KungFu404",
+      "name": "阿里｜设置token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "jar": "./lib/alisz.jar"
+    },
+    {
+      "key": "配置中心",
+      "name": "阿里｜配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./lib/mypg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/PG推送.json"
+    },
   {
       "key": "玩偶",
       "name": "玩偶",
