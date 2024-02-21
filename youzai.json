@@ -17,6 +17,29 @@
       "type": 3,
       "api": "csp_Buleitv",
       "searchable": 1,
+      "changeable": 0
+    },{
+      "key": "Yingtantv",
+      "name": "💯影探┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingtantv2",
+      "searchable": 1,
+      "changeable": 0
+    },
+  {
+      "key": "Zhuiyitv",
+      "name": "💯追忆┃TV┃App",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "searchable": 1,
+      "changeable": 0
+  }
+    {
+      "key": "Buleitv",
+      "name": "💯布蕾┃TV┃App",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "searchable": 1,
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
       "changeable": 0
     },
