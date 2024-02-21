@@ -26,8 +26,8 @@
       "type": 3,
       "api": "csp_Yingtantv",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
-      "changeable": 0
+      "changeable": 0,
+      "jar": "./custom_spider.jar"
     },
     {"key":"Yingtantv",
       "name":"影探|直连",
@@ -37,7 +37,26 @@
       "changeable":1, 
       "filterable":1,
       "timeout":30,
-      "ext":"$$$./lib/yt.json$$$1"},
+      "ext":"$$$./lib/yt.json$$$1"
+    },
+    {
+            "key": "Buleitv",
+            "name": "💯布蕾┃TV┃App",
+            "type": 3,
+            "api": "csp_Buleitv",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+        },
+        {
+            "key": "Yingtantv",
+            "name": "💯影探┃TV┃App",
+            "type": 3,
+            "api": "csp_Yingtantv",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+        },
     {
       "key": "玩偶哥哥",
       "name": "悠哉玩偶",
