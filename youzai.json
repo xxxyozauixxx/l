@@ -18,7 +18,7 @@
       "api": "csp_Buleitv",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./custom_spider.jar"
+      "jar":"./3.jar"
     },
     {
       "key": "Yingtantv",
@@ -27,7 +27,7 @@
       "api": "csp_Yingtantv2",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./custom_spider.jar"
+      "jar":"./3.jar"
     },
   {
       "key": "Zhuiyitv",
@@ -36,7 +36,7 @@
       "api": "csp_Zhuiyitv",
       "searchable": 1,
       "changeable": 0,
-    "jar":"./custom_spider.jar"
+    "jar":"./3.jar"
   },
     {
       "key": "Buleitv",
