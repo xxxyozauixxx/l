@@ -12,6 +12,18 @@
       "filterable": 0
     },
     {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://ali.xn--sxr.hz.cz/site/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      "jar":"./custom_spider.jar"，
+            "changeable": 0,
+            "ext": true
+        },
+    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
       "type": 3,
