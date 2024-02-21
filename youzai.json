@@ -17,7 +17,7 @@
       "type": 3,
       "api": "csp_Buleitv",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
       "changeable": 0
     },
     {
@@ -26,7 +26,7 @@
       "type": 3,
       "api": "csp_Yingtantv2",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/custom_spider.jar",
       "changeable": 0
     },
     {
