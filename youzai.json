@@ -12,6 +12,22 @@
       "filterable": 0
     },
     {
+      "key": "Buleitv",
+      "name": "💯布蕾┃TV┃App",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Yingtantv",
+      "name": "💯影探┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingtantv2",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "玩偶哥哥",
       "name": "悠哉玩偶",
       "type": 3,
