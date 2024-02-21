@@ -17,14 +17,17 @@
       "type": 3,
       "api": "csp_Buleitv",
       "searchable": 1,
-      "changeable": 0
-    },{
+      "changeable": 0,
+      "jar":"./custom_spider.jar"
+    },
+    {
       "key": "Yingtantv",
       "name": "💯影探┃TV┃App",
       "type": 3,
       "api": "csp_Yingtantv2",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"./custom_spider.jar"
     },
   {
       "key": "Zhuiyitv",
@@ -32,7 +35,8 @@
       "type": 3,
       "api": "csp_Zhuiyitv",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+    "jar":"./custom_spider.jar"
   },
     {
       "key": "Buleitv",
@@ -50,7 +54,7 @@
       "api": "csp_Yingtantv",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./custom_spider.jar"
+      "jar":"./custom_spider.jar"
     },
     {
       "key": "Buleitv",
@@ -59,7 +63,7 @@
             "api": "csp_Buleitv",
             "searchable": 1,
             "changeable": 0,
-            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+            "jar":"http://47.108.190.141/wx/yydf/txt/yt.txt"
         },
         {
             "key": "Yingtantv",
@@ -68,7 +72,7 @@
             "api": "csp_Yingtantv",
             "searchable": 1,
             "changeable": 0,
-            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+            "jar":"http://47.108.190.141/wx/yydf/txt/yt.txt"
         },
     {
       "key": "玩偶哥哥",
