@@ -22,6 +22,18 @@
       "ext": "http://38.12.25.109:158/api.php/app/"
     },
     {
+      "key": "影视车®APP",
+      "name": "♨️影视车®APP",
+      "type": 3,
+      "api": "csp_LvDou",
+      "playerType": 1,
+      "ext": {
+        "server": "https://4k.ysctv.cn/api.php/app/",
+        "mackey": "yingshiche123456|PHPBxdt7PppocRJ5"
+      },
+      "jar":"./lvdou.jar"
+    }
+    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
       "type": 3,
