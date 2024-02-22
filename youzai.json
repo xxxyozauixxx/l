@@ -39,6 +39,15 @@
     "jar":"./3.jar"
   },
     {
+      "key": "Yingshiche",
+      "name": "💯影视车┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "changeable": 0,
+ "jar":"./3.jar"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "悠哉玩偶",
       "type": 3,
