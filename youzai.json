@@ -12,6 +12,18 @@
       "filterable": 0
     },
     {
+            "key": "Czzyapp",
+            "name": "🇨🇳 厂长",
+            "type": 3,
+            "api": "csp_Czzy",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+             "jar": "https://d.kstore.space/download/2960/厂长.jar",
+            "ext": "https://www.czzy55.com/"
+        },
+    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
       "type": 3,
