@@ -70,6 +70,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/荐片.js"
     },
+  {
+      "key": "drpy_js_我的哔哩",
+      "name": "B站 | 合集[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/我的哔哩.js"
+    },
    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
