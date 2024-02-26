@@ -73,9 +73,9 @@
       "jar":"./pg.jar",
       "token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"
     },
-	 {
+	  {
       "key": "宇宙",
-      "name": "👿宇宙4K自营",
+      "name": "宇宙4K自营",
       "type": 3,
       "api": "csp_LvDou",
       "quickSearch": 1,
@@ -87,8 +87,7 @@
         "server": "http://ds1.yuzhoukeji.top/api.php/app/",
         "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
         "danmu": true
-      },
-"jar":"./pg.jar"
+      }
     }, 
    {
       "key": "Buleitv",
