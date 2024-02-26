@@ -90,7 +90,8 @@
       "name": "网盘 | Alist[js]",
       "type": 3,
       "api": "./lib/alist.min.js",
-      "ext": "./lib/alist.json"
+      "ext": "./lib/alist.json",
+"jar":"./dzcs.jar"
     },
    {
       "key": "Buleitv",
