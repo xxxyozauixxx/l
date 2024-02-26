@@ -91,6 +91,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/我的哔哩.js"
     },
+	      {
+      "key": "drpy_js_新片场",
+      "name": "影视 | 新片场[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/新片场.js"
+    },
  {
       "key": "AList",
       "name": "网盘 | Alist[jar]",
