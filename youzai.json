@@ -77,6 +77,21 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/我的哔哩.js"
     },
+ {
+      "key": "AList",
+      "name": "网盘 | Alist[jar]",
+      "type": 3,
+      "api": "csp_AList",
+      "ext": "./lib/alist.json",
+      "jar":"./dzcs.jar"
+    },
+    {
+      "key": "drpy_js_Alist",
+      "name": "网盘 | Alist[js]",
+      "type": 3,
+      "api": "./lib/alist.min.js",
+      "ext": "./lib/alist.json"
+    },
    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
