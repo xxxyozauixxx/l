@@ -51,6 +51,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/tengxun.js"
     },
+{
+      "key": "drpy_js_菜狗",
+      "name": "官源 | 搜狗[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/菜狗.js"
+    },
     {
             "key": "Czzyapp",
             "name": "🇨🇳厂长",
