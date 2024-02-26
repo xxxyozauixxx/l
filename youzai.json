@@ -105,6 +105,34 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/新片场.js"
     },
+	      {
+      "key": "drpy_js_看韩剧",
+      "name": "影视 | 看韩剧[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/看韩剧.js"
+    },
+    {
+      "key": "drpy_js_追剧迷",
+      "name": "影视 | 追剧迷[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/追剧迷.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "影视 | LIBVIO[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_Voflix",
+      "name": "影视 | Voflix[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/voflix.js"
+    },
  {
       "key": "AList",
       "name": "网盘 | Alist[jar]",
