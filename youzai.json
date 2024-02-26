@@ -99,6 +99,20 @@
       "api": "./lib/alist.min.js",
       "ext": "./lib/alist.json"
     },
+	      {
+      "key": "drpy_js_低端",
+      "name": "影视 | 低端[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/ddys.js"
+    },
+    {
+      "key": "drpy_js_农民",
+      "name": "影视 | 农民[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/农民影视.js"
+    },
    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
