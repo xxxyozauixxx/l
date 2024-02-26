@@ -58,6 +58,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/菜狗.js"
     },
+	      {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞TV[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/网飞.TV.js"
+    },
     {
             "key": "Czzyapp",
             "name": "🇨🇳厂长",
