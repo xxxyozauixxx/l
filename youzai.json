@@ -63,21 +63,6 @@
              "jar": "https://d.kstore.space/download/2960/厂长.jar",
             "ext": "https://www.czzy55.com/"
         },
-    {
-      "key": "宇宙",
-      "name": "宇宙4k",
-      "type": 3,
-      "api": "csp_LvDou",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "ext": {
-        "server": "http://ds.yuzhoukeji.top/api.php/app/",
-        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
-        "danmu": true}
-    },
    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
