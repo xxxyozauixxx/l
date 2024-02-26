@@ -63,6 +63,13 @@
              "jar": "https://d.kstore.space/download/2960/厂长.jar",
             "ext": "https://www.czzy55.com/"
         },
+{
+      "key": "drpy_js_荐片",
+      "name": "荐片 | 影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/荐片.js"
+    },
    {
       "key": "Buleitv",
       "name": "💯布蕾┃TV┃App",
