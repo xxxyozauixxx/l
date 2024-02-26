@@ -84,6 +84,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/荐片.js"
     },
+	      {
+      "key": "drpy_js_免费看",
+      "name": "影视 | 免费看[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/免费看.js"
+    },
   {
       "key": "drpy_js_我的哔哩",
       "name": "B站 | 合集[js]",
