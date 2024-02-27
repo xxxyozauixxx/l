@@ -2028,6 +2028,13 @@
    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
       "changeable": 0
     },
+	      {
+      "key": "drpy_js_88看球",
+      "name": "体育 | 88看球[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+    },
   {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
