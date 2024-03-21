@@ -1965,6 +1965,8 @@
 "searchable" : 1,
 "filterable" : 0,
 "categories" : [
+	  "电影",
+	"电视剧",
 	"国产剧",
         "纪录片",
         "欧美剧",
