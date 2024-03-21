@@ -22,17 +22,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-      "key": "南瓜",
-      "name": "旧南瓜App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-     },
-     {
+   {
       "key": "玩偶",
       "name": "悠哉玩偶",
       "type": 3,
@@ -42,18 +32,6 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
      }, 
-     {
-       "key": "玩偶",
-       "name": "FM玩偶",
-       "type": 3,
-       "api": "csp_Wogg",
-       "searchable": 1,
-     "jar":"./FM.jar",
-        "changeable": 0,
-        "ext": {
-        "token": "影視天下第一",
-        "filter": "./lib/wogg.json"}
-      },
      {
       "key": "drpy_js_360影视",
       "name": "360",
