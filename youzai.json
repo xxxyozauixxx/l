@@ -247,24 +247,15 @@
      },
     {
      "key": "Auete",
-      "name": "奥特直连",
+      "name": "Auete直连",
       "type": 3,
       "api": "csp_Auete",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
      },
-     {
-      "key": "加速器",
-      "name": "加速直连",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod",
-      "jar": "./lib/myog.jar"
-    },
     {
       "key": "csp_SP33",
       "name": "三三解析",
