@@ -1388,17 +1388,6 @@
       "ext": "./lib/HDmoli.json"
     },
     {
-      "key": "csp_New6v",
-      "name": "🧲新6V",
-      "type": 3,
-      "api": "csp_New6v",
-      "jar": "./lib/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.xb6v.com"
-    },
-    {
       "key": "csp_SeedHub",
       "name": "🧲SeedHub",
       "type": 3,
@@ -1616,55 +1605,10 @@
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
     },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "🚌动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ying",
-      "name": "💮樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "🎀异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "88js",
-      "name": "悠哉看球1",
+      "name": "88看球1",
       "type": 3,
       "api": "csp_Kanqiu",
       "style": {
