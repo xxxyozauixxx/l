@@ -22,19 +22,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
      }, 
      {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
-      "changeable": 0,
-      "ext": {
-        "token": "悠哉",
-        "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/lib/wogg.json"
-      }
-      },
-      {
       "key": "drpy_js_360影视",
       "name": "360",
       "type": 3,
