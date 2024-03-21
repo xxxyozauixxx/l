@@ -166,16 +166,6 @@
       "ext": "https://www.80yy3.com/"
      },
     {
-      "key": "Xinsj",
-      "name": "旧视觉直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-     },
-     {
       "key": "萌米",
       "name": "旧萌米App",
       "type": 3,
@@ -186,15 +176,6 @@
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
     },
     {
-      "key": "萌米",
-      "name": "新萌米App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-     },
-     {
       "key": "一起看 ",
       "name": "一起App",
       "type": 3,
