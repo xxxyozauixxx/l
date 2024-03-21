@@ -296,6 +296,16 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jp.js"
     },  
+      {
+      "key": "新6V",
+      "name": "6V磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
      {
       "key": "豪华资源",
       "name": "豪华资源",
