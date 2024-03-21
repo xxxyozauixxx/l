@@ -19,185 +19,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360.js"
     },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒果",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mgtv.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/iqiyi.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tengxun.js"
-    },
-{
-      "key": "drpy_js_菜狗",
-      "name": "官源 | 搜狗[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
-    },
-	      {
-      "key": "drpy_js_网飞.TV",
-      "name": "网飞TV[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/网飞.TV.js"
-    },
-    {
-            "key": "Czzyapp",
-            "name": "🇨🇳厂长",
-            "type": 3,
-            "api": "csp_Czzy",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-             "jar": "https://d.kstore.space/download/2960/厂长.jar",
-            "ext": "https://www.czzy55.com/"
-        },
-{
-      "key": "drpy_js_荐片",
-      "name": "荐片 | 影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js"
-    },
-	      {
-      "key": "drpy_js_免费看",
-      "name": "影视 | 免费看[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/免费看.js"
-    },
-  {
-      "key": "drpy_js_我的哔哩",
-      "name": "B站 | 合集[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/我的哔哩.js"
-    },
-	      {
-      "key": "drpy_js_新片场",
-      "name": "影视 | 新片场[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/新片场.js"
-    },
-	      {
-      "key": "drpy_js_看韩剧",
-      "name": "影视 | 看韩剧[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/看韩剧.js"
-    },
-    {
-      "key": "drpy_js_追剧迷",
-      "name": "影视 | 追剧迷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/追剧迷.js"
-    },
-    {
-      "key": "drpy_js_LIBVIO",
-      "name": "影视 | LIBVIO[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/LIBVIO.js"
-    },
-    {
-      "key": "drpy_js_Voflix",
-      "name": "影视 | Voflix[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/voflix.js"
-    },
- {
-      "key": "AList",
-      "name": "网盘 | Alist[jar]",
-      "type": 3,
-      "api": "csp_AList",
-      "ext": "./lib/alist.json",
-      "jar":"./dzcs.jar"
-    },
-    {
-      "key": "drpy_js_Alist",
-      "name": "网盘 | Alist[js]",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
-    },
-	      {
-      "key": "drpy_js_低端",
-      "name": "影视 | 低端[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ddys.js"
-    },
-    {
-      "key": "drpy_js_农民",
-      "name": "影视 | 农民[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/农民影视.js"
-    },
-   {
-      "key": "Buleitv",
-      "name": "💯布蕾┃TV┃App",
-      "type": 3,
-      "api": "csp_Buleitv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"./3.jar"
-    },
-    {
-      "key": "Yingtantv",
-      "name": "💯影探┃TV┃App",
-      "type": 3,
-      "api": "csp_Yingtantv2",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"./3.jar"
-    },
-  {
-      "key": "Zhuiyitv",
-      "name": "💯追忆┃TV┃App",
-      "type": 3,
-      "api": "csp_Zhuiyitv",
-      "searchable": 1,
-      "changeable": 0,
-    "jar":"./3.jar"
-  },
-    {
-      "key": "Yingshiche",
-      "name": "💯影视车┃TV┃App",
-      "type": 3,
-      "api": "csp_Yingshiche",
-      "searchable": 1,
-      "changeable": 0,
- "jar":"./3.jar"
-    },
+
     {
       "key": "玩偶",
       "name": "悠哉玩偶",
@@ -2363,7 +2185,186 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }
+    },
+{
+      "key": "drpy_js_百忙无果",
+      "name": "芒果",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mgtv.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "爱奇艺",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/iqiyi.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾讯",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/tengxun.js"
+    },
+{
+      "key": "drpy_js_菜狗",
+      "name": "官源 | 搜狗[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/菜狗.js"
+    },
+	      {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞TV[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/网飞.TV.js"
+    },
+    {
+            "key": "Czzyapp",
+            "name": "🇨🇳厂长",
+            "type": 3,
+            "api": "csp_Czzy",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+             "jar": "https://d.kstore.space/download/2960/厂长.jar",
+            "ext": "https://www.czzy55.com/"
+        },
+{
+      "key": "drpy_js_荐片",
+      "name": "荐片 | 影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/荐片.js"
+    },
+	      {
+      "key": "drpy_js_免费看",
+      "name": "影视 | 免费看[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/免费看.js"
+    },
+  {
+      "key": "drpy_js_我的哔哩",
+      "name": "B站 | 合集[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/我的哔哩.js"
+    },
+	      {
+      "key": "drpy_js_新片场",
+      "name": "影视 | 新片场[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/新片场.js"
+    },
+	      {
+      "key": "drpy_js_看韩剧",
+      "name": "影视 | 看韩剧[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/看韩剧.js"
+    },
+    {
+      "key": "drpy_js_追剧迷",
+      "name": "影视 | 追剧迷[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/追剧迷.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "影视 | LIBVIO[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_Voflix",
+      "name": "影视 | Voflix[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/voflix.js"
+    },
+ {
+      "key": "AList",
+      "name": "网盘 | Alist[jar]",
+      "type": 3,
+      "api": "csp_AList",
+      "ext": "./lib/alist.json",
+      "jar":"./dzcs.jar"
+    },
+    {
+      "key": "drpy_js_Alist",
+      "name": "网盘 | Alist[js]",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
+    },
+	      {
+      "key": "drpy_js_低端",
+      "name": "影视 | 低端[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/ddys.js"
+    },
+    {
+      "key": "drpy_js_农民",
+      "name": "影视 | 农民[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/农民影视.js"
+    },
+   {
+      "key": "Buleitv",
+      "name": "💯布蕾┃TV┃App",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./3.jar"
+    },
+    {
+      "key": "Yingtantv",
+      "name": "💯影探┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingtantv2",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./3.jar"
+    },
+  {
+      "key": "Zhuiyitv",
+      "name": "💯追忆┃TV┃App",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "searchable": 1,
+      "changeable": 0,
+    "jar":"./3.jar"
+  },
+    {
+      "key": "Yingshiche",
+      "name": "💯影视车┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "changeable": 0,
+ "jar":"./3.jar"
+    }  
 ],
   "parses": [
     {
