@@ -349,16 +349,7 @@
       "filterable": 1,
       "changeable": 1
     },
-     {
-      "key": "77",
-      "name": "七七App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-     {
+   {
       "key": "77",
       "name": "七七秒播",
       "type": 3,
@@ -595,7 +586,7 @@
     },
     {
       "key": "Biliych",
-      "name": "明星演唱会",
+      "name": "哔哔歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
