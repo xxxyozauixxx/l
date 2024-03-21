@@ -1622,7 +1622,7 @@
     },
     {
       "key": "csp_TVB",
-      "name": "TVB📭云播",
+      "name": "TVB云播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/yg.jar",
@@ -1820,22 +1820,22 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/voflix.js"
     },
- {
+   {
       "key": "AList",
-      "name": "网盘 | Alist[jar]",
+      "name": "网盘Alist[jar]",
       "type": 3,
       "api": "csp_AList",
       "ext": "./lib/alist.json",
-      "jar":"./dzcs.jar"
+      "jar":"./lib/dzcs.jar"
     },
     {
       "key": "drpy_js_Alist",
-      "name": "网盘 | Alist[js]",
+      "name": "网盘Alist[js]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
+      "api": "./lib/alist.min.js",
+      "ext": "./lib/alist2.json"
     },
-	      {
+   {
       "key": "drpy_js_低端",
       "name": "影视 | 低端[js]",
       "type": 3,
