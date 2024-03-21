@@ -1954,10 +1954,52 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
-    }
-    ],
+      "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+     "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
+     },
+{
+"key": "modu",
+"name": "魔都资源 ",
+"type": 1,
+"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","动漫"]
+},
+{
+"key": "csp_xpath_dmw",
+"name": "动漫岛",
+"type": 3,
+"api": "csp_XPathMacFilter",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./lib/dmw.json",
+"jar":"./lib/xzy1029.jar"
+},
+{
+"key":"维奇动漫",
+"name":"维奇动漫",
+"type":3,
+"api":"csp_XBiubiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"./lib/维奇动漫.json",
+"jar":"./lib/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
+},
+{
+"key" : "百度",
+"name" : "百度",
+"type" : 1,
+"api" : "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+"searchable" : 1,
+"filterable" : 0,
+"categories" : ["国产动漫","日韩动漫"]
+}
+],
   "parses":[
       {
       "name": "聚合",
