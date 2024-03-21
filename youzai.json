@@ -238,63 +238,8 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },
-{"key":"世界","name":"💖分享世界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
-    {
-      "key": "短剧",
-      "name": "💚短剧搜",
-      "type": 3,
-      "api": "csp_Duanju",
-      "jar": "./lib/mypg.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_短剧网",
-      "name": "短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "陌陌",
-      "name": "🧡短剧2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./lib/dj0.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "横版影院",
-      "name": "短剧横版影院",
-      "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [ "短剧" ] 
-    },
-    {
-      "key": "csp_XBPQ_vstv",
-      "name": "🎦┃短剧┃VS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/yg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
-    {
+      },
+      {
       "key": "XYQH_JOJO",
       "name": "🍁┃久久┃影视",
       "type": 3,
@@ -2350,8 +2295,70 @@
       "searchable": 1,
       "changeable": 0,
  "jar":"./3.jar"
-    }  
-],
+    } ,
+    {
+       "key":"世界",
+	"name":"💖分享世界",
+	"type":3,"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://106.52.241.21:83/api.php/app/"
+     },
+    {
+      "key": "短剧",
+      "name": "💚短剧搜",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "./lib/mypg.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "./lib/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "陌陌",
+      "name": "🧡短剧2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/dj0.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "横版影院",
+      "name": "短剧横版影院",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [ "短剧" ] 
+    },
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "🎦┃短剧┃VS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
+    }
+    ],
   "parses": [
     {
       "name": "聚合",
