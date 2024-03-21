@@ -29,7 +29,7 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
      }, 
      {
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "贱贱",
