@@ -268,6 +268,15 @@
     },
      {
       "key": "77",
+      "name": "七七App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "77",
       "name": "七七秒播",
       "type": 3,
       "api": "csp_Kunyu77",
@@ -1428,16 +1437,7 @@
       "filterable": 1,
       "jar": "./lib/0819.jar"
     },
-    {
-      "key": "77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+  {
       "key": "小柚",
       "name": "🍊小柚┃App",
       "type": 3,
