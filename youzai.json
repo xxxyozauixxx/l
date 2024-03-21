@@ -154,9 +154,19 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
      },
+     {
+      "key": "萌米",
+      "name": "旧萌米App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+    },
    {
       "key": "萌米",
-      "name": "萌米App",
+      "name": "新萌米App",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
