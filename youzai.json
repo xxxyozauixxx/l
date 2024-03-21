@@ -418,6 +418,18 @@
       "quickSearch": 1,
       "changeable": 1
      },
+   {
+      "key": "看球",
+      "name": "FM看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./FM.jar",
+      "style": {
+        "type": "list"
+      }
+    },
      {
       "key": "88js",
       "name": "88看球",
