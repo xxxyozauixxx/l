@@ -1579,7 +1579,7 @@
     },
     {
       "key": "996",
-      "name": "996🍺影视",
+      "name": "996影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "./lib/xyq.jar",
