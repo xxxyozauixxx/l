@@ -176,18 +176,7 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-      {
-      "key": "zxzj",
-      "name": "在线外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    }, 
-    {
+   {
       "key": "萌米",
       "name": "旧萌米App",
       "type": 3,
