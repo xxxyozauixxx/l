@@ -197,7 +197,7 @@
      },
      {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "一起App",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -270,7 +270,7 @@
     },
     {
       "key": "49zy",
-      "name": "🍒49资源",
+      "name": "49资源",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
