@@ -246,7 +246,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "changeable": 1,
-       "jar": "https://d.kstore.space/download/2960/厂长.jar",
+       "jar": "./lib/厂长.jar",
        "ext": "https://www.czzy55.com/"
      },
     {
