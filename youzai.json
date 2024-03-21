@@ -336,6 +336,16 @@
       "changeable": 1
      },
      {
+      "key": "88js",
+      "name": "88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {"type": "list"},
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+     {
       "key": "豪华资源",
       "name": "豪华资源",
       "type": 1,
