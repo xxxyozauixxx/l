@@ -1,7 +1,7 @@
 {
-  "spider": "./fty.jar;md5;dd909349c70fe92e82470eba611b7094",
-  "wallpaper": "./悠哉暗夜壁纸.jpg",
-  "sites": [
+  "spider":"./fty.jar;md5;dd909349c70fe92e82470eba611b7094",
+  "wallpaper":"./悠哉暗夜壁纸.jpg",
+  "sites":[
       {
       "key": "豆豆",
       "name": "悠哉豆瓣",
@@ -21,8 +21,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-   {
+     },
+     {
       "key": "玩偶",
       "name": "悠哉玩偶",
       "type": 3,
@@ -47,24 +47,24 @@
       "playerType": 2,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/mgtv.js"
-    },
-    {
+     },
+     {
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺",
       "type": 3,
       "playerType": 2,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/iqiyi.js"
-    },
-    {
+     },
+     {
       "key": "drpy_js_优酷",
       "name": "优酷",
       "type": 3,
       "playerType": 2,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
-    },
-    {
+     },
+     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯",
       "type": 3,
@@ -112,7 +112,7 @@
         "ratio": 1
       },
       "ext": "./lib/PG推送.json"
-    }, 
+     }, 
      {
       "key": "酷看",
       "name": "酷看秒播",
@@ -176,7 +176,7 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-   {
+    {
       "key": "萌米",
       "name": "旧萌米App",
       "type": 3,
@@ -205,7 +205,7 @@
       "quickSearch": 1,
       "changeable": 1
     },  
-      {
+    {
       "key": "DiDuan",
       "name": "低端外剧",
       "type": 3,
@@ -244,9 +244,9 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
-    },
-  {
-      "key": "Auete",
+     },
+    {
+     "key": "Auete",
       "name": "奥特直连",
       "type": 3,
       "api": "csp_Auete",
@@ -254,8 +254,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
-    },
-    {
+     },
+     {
       "key": "加速器",
       "name": "加速直连",
       "type": 3,
