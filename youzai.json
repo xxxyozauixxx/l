@@ -215,7 +215,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+     {
       "key": "豪华资源",
       "name": "豪华资源",
       "type": 1,
@@ -736,24 +736,15 @@
       "filterable": 0,
       "ext": "./lib/酷奇MV.json"
     },
-    {
-      "key": "zxzj",
-      "name": "📗在线┃直连",
+  {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄比特┃直连",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "https://www.hdmyy.com/"
     },
     {
       "key": "csp_Nmys",
@@ -766,6 +757,15 @@
       "ext": "./lib/nmys.json"
     },
     {
+      "key": "csp_Bttoo",
+      "name": "🍄比特┃直连",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Lib",
       "name": "🌟利播┃直连",
       "type": 3,
@@ -775,17 +775,7 @@
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
     },
-    {
-      "key": "Xinsj",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-    {
+  {
       "key": "Auete",
       "name": "🏝奥特┃直连",
       "type": 3,
