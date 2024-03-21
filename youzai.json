@@ -22,6 +22,19 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
      }, 
      {
+      "key": "玩偶",
+      "name": "FM玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
+      "changeable": 0,
+      "ext": {
+        "token": "悠哉",
+        "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/lib/wogg.json"
+      }
+      },
+     {
       "key": "drpy_js_360影视",
       "name": "360",
       "type": 3,
@@ -145,7 +158,7 @@
     },  
     {
       "key": "Xinsj",
-      "name": "视觉直连",
+      "name": "新视觉直连",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -154,6 +167,16 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
      },
+    {
+      "key": "Xinsj",
+      "name": "旧视觉直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
      {
       "key": "萌米",
       "name": "旧萌米App",
