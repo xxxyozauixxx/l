@@ -76,16 +76,7 @@
       "jar":"./FM.jar",
       "changeable": 1
     },
-    {
-      "key": "996影院",
-      "name": "996影院",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "searchable": 1,
-      "jar":"./FM.jar",
-      "changeable": 1
-     },
-    {
+ {
       "key": "玩偶",
       "name": "悠哉玩偶",
       "type": 3,
@@ -545,26 +536,6 @@
         "体育赛事",
         "海外剧"
       ]
-    },
-    {
-      "key":"csp_XBPQ_duoju",
-      "name":"🍹多剧影院",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./lib/yg.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"{
-    \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",
-    \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
     },
     {
       "key":"csp_XBPQ_dudu30",
@@ -1485,17 +1456,7 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
     },
-    {
-      "key": "短剧",
-      "name": "🌈短剧┃在线",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://duanju.one"
-    },
-   {
+  {
       "key": "csp_XYQHiker_奇趣影视",
       "name": "💥丨奇趣2k丨秒播",
       "type": 3,
@@ -1717,6 +1678,16 @@
       "filterable": 1,
       "categories": [ "短剧" ] 
     },
+    {
+      "key": "短剧",
+      "name": "🌈短剧┃在线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://duanju.one"
+    },  
     {
       "key": "csp_XBPQ_vstv",
       "name": "🎦┃短剧┃VS",
