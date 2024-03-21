@@ -686,6 +686,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/drpy.js"
      },
+     {
+      "key": "drpy_js_荐片",
+      "name": "荐片 | 影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/荐片.js"
+    }, 
     {
       "key": "豪华资源",
       "name": "豪华资源",
@@ -1755,22 +1762,15 @@
             "changeable": 1,
              "jar": "https://d.kstore.space/download/2960/厂长.jar",
             "ext": "https://www.czzy55.com/"
-        },
-{
-      "key": "drpy_js_荐片",
-      "name": "荐片 | 影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js"
-    },
-	      {
+     },
+      {
       "key": "drpy_js_免费看",
       "name": "影视 | 免费看[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/免费看.js"
     },
-  {
+   {
       "key": "drpy_js_我的哔哩",
       "name": "B站 | 合集[js]",
       "type": 3,
