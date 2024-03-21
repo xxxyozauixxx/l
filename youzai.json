@@ -1790,18 +1790,6 @@
       "changeable": 0
     },
 {
-      "key": "看球",
-      "name": "悠哉看球2",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "changeable": 0,
-  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "88js",
       "name": "悠哉看球3",
       "type": 3,
@@ -1814,22 +1802,34 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+{
+      "key": "看球",
+      "name": "悠哉看球2",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
+      "style": {
+        "type": "list"
+      }
+    },
+     {
       "key": "索尼",
       "name": "索尼 ",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     },
-   {
+    {
       "key": "非凡",
       "name": "非凡",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
-     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     },
     {
@@ -1838,7 +1838,7 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable":1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     }, 
         {
@@ -1847,7 +1847,7 @@
       "type": 1,
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
-          "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+          "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     },
     {
@@ -1856,7 +1856,7 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     },
     {
@@ -1865,7 +1865,7 @@
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 1
     },
  {
@@ -1874,10 +1874,10 @@
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
-   "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/youzai1.jar",
+   "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xxxyozauixxx/l/main/FM.jar",
       "changeable": 0
     },
-	      {
+{
       "key": "drpy_js_88看球",
       "name": "体育 | 88看球[js]",
       "type": 3,
