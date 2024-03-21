@@ -102,18 +102,9 @@
       },
       "ext": "./lib/PG推送.json"
     }, 
-    {
-     "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+     {
       "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "name": "酷看秒播",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -123,7 +114,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎小苹果┃复活",
+      "name": "小苹果复活",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -132,7 +123,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃无广",
+      "name": "原创无广",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -173,7 +164,16 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
     },
-{
+    {
+      "key": "萌米",
+      "name": "新萌米App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
       "key": "率率",
       "name": "🌸率率┃App",
       "type": 3,
