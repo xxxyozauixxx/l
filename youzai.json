@@ -117,19 +117,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长无广一",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy66.com/"
-    },
-    {
-      "key": "厂长",
-      "name": "厂长无广二",
+      "name": "厂长无广",
       "type": 3,
       "api": "csp_Czsapp",
       "timeout": 15,
