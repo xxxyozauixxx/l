@@ -22,6 +22,15 @@
       "quickSearch": 1,
       "changeable": 1
      },
+      {
+      "key": "酷狗",
+      "name": "酷狗音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "jar":"./FM.jar",
+      "changeable": 0
+     },
      {
       "key": "索尼",
       "name": "索尼 ",
@@ -76,16 +85,7 @@
       "jar":"./FM.jar",
       "changeable": 1
      },
-     {
-      "key": "酷狗",
-      "name": "酷狗",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 0,
-   "jar":"./FM.jar",
-      "changeable": 0
-    },
-     {
+    {
       "key": "玩偶",
       "name": "悠哉玩偶",
       "type": 3,
