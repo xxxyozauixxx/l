@@ -308,16 +308,6 @@
       "changeable": 1,
       "ext": "./lib/nmys.json"
     },
-     {
-      "key": "Auete",
-      "name": "Auete直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://v.auete.com/"
-    },
     {
       "key": "csp_Bttoo",
       "name": "比特直连",
