@@ -347,7 +347,7 @@
     },
     {
       "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷",
+      "name": "Jrs球迷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jrk.js",
@@ -360,7 +360,7 @@
     },
     {
       "key": "310js",
-      "name": "⚽310┃看球",
+      "name": "310看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/310直播.js",
@@ -373,7 +373,7 @@
     },
     {
       "key": "企鹅体育xp",
-      "name": "🐧鹅鹅┃体育",
+      "name": "鹅鹅体育",
       "type": 3,
       "api": "csp_XPath",
       "style": {
