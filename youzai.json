@@ -236,7 +236,19 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
-    },  
+    },
+    {
+       "key": "Czzyapp",
+       "name": "🇨🇳厂长",
+       "type": 3,
+       "api": "csp_Czzy",
+       "playerType": 2,
+       "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "jar": "https://d.kstore.space/download/2960/厂长.jar",
+       "ext": "https://www.czzy55.com/"
+     },
     {
       "key": "Xinsj",
       "name": "新视觉直连",
@@ -1759,63 +1771,51 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/网飞.TV.js"
     },
-    {
-            "key": "Czzyapp",
-            "name": "🇨🇳厂长",
-            "type": 3,
-            "api": "csp_Czzy",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-             "jar": "https://d.kstore.space/download/2960/厂长.jar",
-            "ext": "https://www.czzy55.com/"
-     },
-      {
+   {
       "key": "drpy_js_免费看",
-      "name": "影视 | 免费看[js]",
+      "name": "免费看[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/免费看.js"
     },
    {
       "key": "drpy_js_我的哔哩",
-      "name": "B站 | 合集[js]",
+      "name": "B站合集[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/我的哔哩.js"
     },
 	      {
       "key": "drpy_js_新片场",
-      "name": "影视 | 新片场[js]",
+      "name": "新片场[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/新片场.js"
     },
 	      {
       "key": "drpy_js_看韩剧",
-      "name": "影视 | 看韩剧[js]",
+      "name": "看韩剧[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/看韩剧.js"
     },
     {
       "key": "drpy_js_追剧迷",
-      "name": "影视 | 追剧迷[js]",
+      "name": "追剧迷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/追剧迷.js"
     },
     {
       "key": "drpy_js_LIBVIO",
-      "name": "影视 | LIBVIO[js]",
+      "name": "LIBVIO[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/LIBVIO.js"
     },
     {
       "key": "drpy_js_Voflix",
-      "name": "影视 | Voflix[js]",
+      "name": "Voflix[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/voflix.js"
