@@ -418,16 +418,12 @@
       "quickSearch": 1,
       "changeable": 1
      },
-    {
-      "key": "88js",
-      "name": "悠哉看球",
+      {
+      "key": "drpy_js_88看球",
+      "name": "体育 | 88看球[js]",
       "type": 3,
-      "api": "./lib/悠哉.js",
-      "ext": "./lib/悠哉看球.js",
-      "style": { "type": "list"},
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/88看球.js"
     },
     {
       "key": "88js",
