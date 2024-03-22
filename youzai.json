@@ -27,8 +27,8 @@
       "name": "酷狗音乐",
       "type": 3,
       "api": "csp_Kugou",
+     "jar":"./lib/FM.jar",
       "searchable": 0,
-      "jar":"./FM.jar",
       "changeable": 0
      },
      {
@@ -36,6 +36,7 @@
       "name": "索尼 ",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
+      "jar":"./lib/FM.jar",
        "searchable": 1,
        "changeable": 1,
        "quickSearch": 1,
@@ -66,16 +67,15 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ],
- "jar":"./FM.jar"
-    },
+      ]
+  },
     {
       "key": "非凡",
       "name": "非凡",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "jar":"./lib/FM.jar",
       "searchable": 1,
-     "jar":"./FM.jar",
       "changeable": 1
     },
     {
@@ -83,8 +83,8 @@
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
+      "jar":"./lib/FM.jar",
       "searchable":1,
-      "jar":"./FM.jar",
       "changeable": 1
     }, 
         {
@@ -92,8 +92,8 @@
       "name": "快帆",
       "type": 1,
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "jar":"./lib/FM.jar",
       "searchable": 1,
-          "jar":"./FM.jar",
       "changeable": 1
     },
     {
@@ -101,8 +101,8 @@
       "name": "量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "jar":"./lib/FM.jar",
       "searchable": 1,
-      "jar":"./FM.jar",
       "changeable": 1
     },
  {
