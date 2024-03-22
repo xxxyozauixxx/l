@@ -2266,21 +2266,7 @@
         ]
       }
     },
-    {
-      "name": "路飞解析",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-    },
-    {
-      "name": "白胡子解析",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "布鲁克解析",
-      "type": 1,
-      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
-    },
+
     {
       "name": "乌索普解析",
       "type": 1,
@@ -2408,15 +2394,7 @@
         }
       }
     },
-    {
-      "name": "索隆解析",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
-      }
-    },
-    {
+   {
       "name": "解析5",
       "type": 0,
       "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
@@ -2525,26 +2503,7 @@
           "User-Agent": "Mozilla/5.0"
         }
       },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
- {
-      "name": "小鱼解析",
-      "type": 0,
-      "url": "http://json.84jia.com/player/?uid=12503182&key=abcdpxzAJKMNSUVW36&url="
-    },
-    {
-      "name": "乐酷蓝光",
-      "type": 1,
-      "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="
-    },
-    {
-      "name": "4K",
-      "type": 0,
-      "url": "https://jx.playerjy.com/?url="
-    },
-    {
+     {
       "name": "1号线",
       "type": 0,
       "url": "https://vip.lianfaka.com/vip/?url=",
@@ -2666,6 +2625,13 @@
         ]
       }
     }, 
+    {"name": "索隆解析","type": 0,"url": "https://jx.jsonplayer.com/player/?url=","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"}},
+    {"name": "小鱼解析","type": 0,"url": "http://json.84jia.com/player/?uid=12503182&key=abcdpxzAJKMNSUVW36&url="},
+    {"name": "乐酷蓝光","type": 1,"url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+    {"name": "4K","type": 0,"url": "https://jx.playerjy.com/?url="},
+    {"name": "路飞解析","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+    {"name": "白胡子解析","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name": "布鲁克解析","type": 1,"url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
     {"name": "纯净B站","url": "https://im1907.top/?jx=", "showType": 3},
     {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
     {"name": "4号线","type": 0,"url": "https://www.pouyun.com/?url="},
