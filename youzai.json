@@ -2048,27 +2048,13 @@
       ]
       }
 ],
-  "parses":[
-      {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-     },
-     {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-     },
-     {
-      "name": "并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
+"parses":[
+{"name": "解析聚合","type": 3,"url": "Demo"},
+{"name": "json并发","type": 2,"url": "Parallel"},
+{"name": "json轮询","type": 2,"url": "Sequence"},
+{"name": "Web聚合","type": 3,"url": "Web"},
+{"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="}, 
+{"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="}
     {
       "name": "神秘的哥哥们",
       "type": 1,
