@@ -173,7 +173,7 @@
      },
      {
       "key": "csp_KungFu404",
-      "name": "阿里｜设置token",
+      "name": "阿里设置token",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -184,7 +184,7 @@
     },
     {
       "key": "配置中心",
-      "name": "阿里｜配置中心",
+      "name": "阿里配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "./lib/mypg.jar",
@@ -302,7 +302,7 @@
     },
 	  {
             "key": "baipiaoys",
-            "name": "白嫖┃影视",
+            "name": "白嫖影视",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -1149,7 +1149,7 @@
     },
     {
       "key": "sliu_spider",
-      "name": "石榴┃直连",
+      "name": "石榴直连",
       "api": "csp_ShiLiuDY",
       "jar": "./lib/fix12210.jar",
       "type": 3,
@@ -1738,7 +1738,7 @@
     },
     {
       "key": "星星",
-      "name": "星星┃App",
+      "name": "星星App",
       "type": 3,
       "api": "csp_qiao",
       "jar": "./lib/fix12210.jar",
@@ -1868,7 +1868,7 @@
     },
     {
       "key": "drpy_js_农民",
-      "name": "影视 | 农民[js]",
+      "name": "影视农民[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/农民影视.js"
@@ -1934,7 +1934,7 @@
     },  
     {
       "key": "csp_XBPQ_vstv",
-      "name": "短剧┃VS",
+      "name": "短剧VS",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/yg.jar",
@@ -2104,7 +2104,18 @@
       "type": 1,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
-        {
+     {
+      "name": "白嫖解析",
+      "url": "https://www.baipiao-ys.cc/player/?url=",
+      "ext": {
+        "flag": [
+                ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+     },
+ {
       "name": "春盈解析",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
