@@ -2545,17 +2545,7 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-    {
-      "name": "7777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "杰森",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
+ {
       "name": "小鱼解析",
       "type": 0,
       "url": "http://json.84jia.com/player/?uid=12503182&key=abcdpxzAJKMNSUVW36&url="
