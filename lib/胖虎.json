@@ -34,7 +34,7 @@
     
     "分类url":"https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ka",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$5#解说$6#其它$7#追剧周表$7#今日更新$7#明星库$7",
     
     "筛选":{
     "1":[
