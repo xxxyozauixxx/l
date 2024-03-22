@@ -324,6 +324,30 @@
             },
             "jar": "./lib/南风.jar"
       },
+{
+"key":"csp_lwdy",
+"name":"老王电影",
+"type":3,
+"api":"csp_XBPQ",
+"jar": "./lib/xbpq.jar",
+"ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}
+},
+{
+"key": "555yingshi",
+"name":"555影视",
+"type":3,
+"api":"csp_XBPQ",
+"jar": "./lib/xbpq.jar",
+"ext": {"分类":"电影$1#电视剧$2#福利$124#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
+ },
+{"key":"kyB",
+"name":"快鹰采集",
+"style":{"type":"rect",
+"ratio":0.85},"type":1,
+"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
+"searchable":1,"quickSearch":1,"playUrl":"json:https://stray.serv00.net/ky.php?url="
+},
       {
       "key": "白嫖",
       "name": "白嫖无广",
