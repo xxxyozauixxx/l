@@ -757,6 +757,13 @@
       "ext": "./lib/荐片.js"
     }, 
     {
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看机器[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/ikanbot2.js"
+    },
+    {
       "key": "豪华资源",
       "name": "豪华资源",
       "type": 1,
