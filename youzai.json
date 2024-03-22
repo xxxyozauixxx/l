@@ -3075,12 +3075,11 @@
       ],
       "regex": [
         "is_play_url="
-      ]
-    },
-	
- {
-"name": "proxy",
-"hosts": [
+       ]
+       },
+       {
+        "name": "proxy",
+        "hosts": [
         "raw.githubusercontent.com",
         "googlevideo.com",
         "cdn.v82u1l.com",
@@ -3103,13 +3102,13 @@
         "haiwaikan"
       ],
       "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
         "8.1748",
-        "12.33",
-        "10.85"
-      ]
+	"10.0099",
+        "10.3333",
+	"10.85",
+	"12.33",
+        "16.0599"
+              ]
     },
     {
       "name": "索尼",
