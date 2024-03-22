@@ -342,7 +342,6 @@
 "style":{"type":"rect","ratio":0.85},
 "type":1,
 "api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
-"jar": "./lib/xbpq.jar",
 "searchable":1,
 "quickSearch":1,
 "playUrl":"json:https://stray.serv00.net/ky.php?url="
