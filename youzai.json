@@ -176,7 +176,7 @@
       "name": "阿里设置token",
       "type": 3,
       "api": "csp_KungFu404",
-     "jar": "./lib/alisz.jar"
+     "jar": "./lib/alisz.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -306,7 +306,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-	    "jar": "./lib/南风.jar"
+	    "jar": "./lib/南风.jar",
             "ext": {
                 "主页url": "http://www.baipiaoys.com/",
                 "副标题": "pic-text text-right\">&&</b>",
@@ -538,12 +538,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+     {
       "key": "MTV",
       "name": "明星MV",
       "type": 3,
       "api": "csp_Bili",
-      "style": {type": "rect","ratio": 1.597},
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
