@@ -1206,25 +1206,7 @@
       "filterable": 1,
       "ext": "./lib/555.json"
       },
-    {
-      "key": "csp_胖虎",
-      "name": "胖虎影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/duoduo.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/胖虎.json"
-    },
-    {
-      "key": "drpy_js_胖虎影视",
-      "name": "胖虎影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/panghu.js"
-    },
-    {
+     {
       "key": "py_cctv",
       "name": "央视大全",
       "type": 3,
@@ -1236,7 +1218,7 @@
     },
     {
       "key": "zy_新浪",
-      "name": "新浪资源",
+      "name": "新浪",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -1401,11 +1383,18 @@
       "name": "追忆2K秒播",
       "type": 3,
       "api": "csp_App",
+      "jar": "./lib/YSZYZ.jar;md5;8343ed7b047bf32d8550b3eb4576ebaf",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./lib/YSZYZ.jar;md5;8343ed7b047bf32d8550b3eb4576ebaf",
       "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
+    },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/panghu.js"
     },
     {
       "key": "淘剧",
@@ -1424,9 +1413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "ext": {"danmu": true}
     },
     {
       "key": "益达影视",
