@@ -2734,7 +2734,8 @@
       ],
       "regex": [
         "25.0666",
-        "25.08"
+        "25.08",
+	"20.52"
       ]
     },	
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
