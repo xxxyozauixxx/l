@@ -1150,7 +1150,7 @@
       "name": "五五2K有广",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/duoduo.jar"
+      "jar": "./lib/duoduo.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1212,7 +1212,7 @@
       "name": "酷爱2K秒播",
       "type": 3,
       "api": "csp_Kuaikan",
-     "jar": "./lib/0925.jar"
+     "jar": "./lib/0925.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1738,7 +1738,7 @@
       "name": "奇趣2k秒播",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/yydf.jar"
+      "jar": "./lib/yydf.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1750,7 +1750,7 @@
       "playerType": "1",
       "type": 3,
       "api": "csp_Bdys",
-     "jar": "./lib/xyq.jar"
+     "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1827,7 +1827,7 @@
       "name": "网盘Alist[jar]",
       "type": 3,
       "api": "csp_AList",
-      "jar":"./lib/dzcs.jar"
+      "jar":"./lib/dzcs.jar",
       "ext": "./lib/alist.json"
      },
     {
