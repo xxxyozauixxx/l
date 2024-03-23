@@ -1952,6 +1952,26 @@
           "qiqi",
           "XALS",
           "YuMi-vip"]}},
+	              {
+            "name": "王",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
+        },
+        {
+            "name": "二",
+            "type": 1,
+            "url": "http://119.91.123.253:2345/Api/yun.php?url="
+        },
+        {
+            "name": "小",
+            "type": 1,
+            "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+        },
+	{
+            "name": "帅",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+        },
      {"name": "公众号","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {"flag": [
           "qq",
